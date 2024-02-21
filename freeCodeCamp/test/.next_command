@@ -130,3 +130,4 @@ rm header.png footer.jpeg
 ls --color=auto
 rm header.png footer.jpeg
 rm footer.jpeg
+ls --color=auto
