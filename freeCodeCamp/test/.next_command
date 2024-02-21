@@ -100,3 +100,6 @@ rmdir background.jpg/
 ls --color=auto
 touch background.jpg
 touch header.png
+mkdir footer.jpeg
+rmdir footer.jpeg
+touch footer.jpeg
