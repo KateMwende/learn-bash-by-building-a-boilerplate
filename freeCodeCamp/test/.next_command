@@ -79,3 +79,4 @@ cd ..
 pwd
 cd ../..
 ls --color=auto
+clear
