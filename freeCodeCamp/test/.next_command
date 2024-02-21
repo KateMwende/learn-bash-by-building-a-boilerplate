@@ -94,3 +94,8 @@ ls --color=auto
 ls --color=auto --help
 ls --color=auto -a
 cd .
+mkdir background.jpg
+ls --color=auto
+rmdir background.jpg/
+ls --color=auto
+touch background.jpg
