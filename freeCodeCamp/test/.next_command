@@ -191,3 +191,4 @@ mkdir ./client/assets/icons
 mv CodeAlly.svg ./client/assets/icons
 finf
 find
+mv CodeRoad.svg ./client/assets/icons
