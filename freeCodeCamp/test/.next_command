@@ -208,3 +208,4 @@ find
 rm -f fonts/
 rm --help
 rm -r fonts/
+ls --color=auto
