@@ -167,3 +167,5 @@ cd images/g
 cd images/
 touch background.jpg
 cd ../../..
+ls --color=auto
+cd images/
