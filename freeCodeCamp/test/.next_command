@@ -103,3 +103,4 @@ touch header.png
 mkdir footer.jpeg
 rmdir footer.jpeg
 touch footer.jpeg
+ls --color=auto
